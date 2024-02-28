@@ -1,4 +1,5 @@
-### Hi there, I'm Flavio De Angelis 👋
+###         Hi there, My name is Flavio De Angelis 👋
+            I'm a Italy Full-Stack developer 💻🍕
 
 <!--
 **flaviodeangelis56/flaviodeangelis56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
